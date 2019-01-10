@@ -1,0 +1,5 @@
+class Coord {
+  public Coord() {
+    
+  }
+};

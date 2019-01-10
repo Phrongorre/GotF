@@ -1,4 +1,4 @@
-class Region extends Thing {
+class Region extends GuiComponent {
   public Region() {
     
   }
